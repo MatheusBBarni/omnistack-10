@@ -1,0 +1,1 @@
+module.exports = arrayString => arrayString.split(',').map(tech => tech.trim());
